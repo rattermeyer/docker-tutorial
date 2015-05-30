@@ -1,5 +1,15 @@
 # Umgang mit Docker Client
 
+## Benötigte Images
+
+* ubuntu
+* httpd:2.4
+* httpd:2.2
+* mysql
+* phpmysqladmin
+
+## Anmerkungen 
+
 ## Ausführen eines einfachen Containers
 
 Startet die Bash in einem ubuntu Container
